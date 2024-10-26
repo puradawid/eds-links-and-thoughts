@@ -19,6 +19,9 @@
 * [Exchange partners, a collection of blocks](https://github.com/adobecom/exchange-partners/blob/main/tools/sidekick/config.json)
 * [Kitchen Sink, Milo blocks](https://milo.adobe.com/docs/library/kitchen-sink/)
 
+### Technicalities
+* [Adobe Fetch, agent used for fetching the source page](https://github.com/adobe/adobe-fetch)
+
 ## Key Concepts
 
 ### Opinionated Architecture

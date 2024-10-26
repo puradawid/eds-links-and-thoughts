@@ -16,6 +16,8 @@
 ### Implementations
 * [Adobe.com, only when not logged in](https://www.adobe.com)
 * [Franklin Wine](https://franklin.wine/)
+* [Exchange partners, a collection of blocks](https://github.com/adobecom/exchange-partners/blob/main/tools/sidekick/config.json)
+* [Kitchen Sink, Milo blocks](https://milo.adobe.com/docs/library/kitchen-sink/)
 
 ## Key Concepts
 

@@ -22,6 +22,9 @@
 ### Technicalities
 * [Adobe Fetch, agent used for fetching the source page](https://github.com/adobe/adobe-fetch)
 
+### Tooling
+* [Franklin sidekick, a library of blocks to use](https://github.com/adobe/franklin-sidekick-library)
+
 ## Key Concepts
 
 ### Opinionated Architecture
